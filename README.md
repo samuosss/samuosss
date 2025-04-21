@@ -1,17 +1,22 @@
 Hi there 👋 I'm Sami Boumaiza
 
+
+
 🎓 *4th-year engineering student at Esprit University*
 🔬 *Specializing in Applied Mathematics, Complex Systems & Finance
 
 ---
 
 🔗 Connect with Me:
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sami.boumaiza.758/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-boumaiza-87b65a221/)
 
 ---
 
 🧠 Tech & Tools
+
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -52,9 +57,6 @@ Hi there 👋 I'm Sami Boumaiza
 - 📊 **Actuariat Vie et Non-Vie**
 - 💡 **Machine Learning for Financial Forecasting**
 
-📈 GitHub Stats
-![Samuosss's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuosss&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuosss&layout=compact&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=samuosss&theme=radical&column=3&margin-w=15&margin-h=15)
+
 
 
