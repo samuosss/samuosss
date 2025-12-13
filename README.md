@@ -2,7 +2,7 @@ Hi there 👋 I'm Sami Boumaiza
 
 
 
-🎓 *4th-year engineering student at Esprit University*
+🎓 *5th-year engineering student at Esprit University*
 🔬 *Specializing in Applied Mathematics, Complex Systems & Finance
 
 ---
